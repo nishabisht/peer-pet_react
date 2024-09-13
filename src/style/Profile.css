@@ -1,0 +1,33 @@
+/* Profile.module.css */
+.profile {
+  margin-top: 3rem;
+}
+
+.profileImage {
+  border-radius: 50%;
+}
+
+.userName {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.userInfo {
+  margin-bottom: 1rem;
+}
+
+.editButton {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+}
+
+.editButton:hover {
+  background-color: #0056b3;
+}
+
+.container.mt-5 {
+    height: 76vh;
+}
